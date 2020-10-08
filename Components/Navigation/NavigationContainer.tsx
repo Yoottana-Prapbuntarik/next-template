@@ -12,6 +12,8 @@ const navigationItems: NavigationItems[] = [
         routePath: [
             { type: 'shirt', path:'shirt' },
             { type: 'shoes', path: 'shoes' },
+            { type: 'Category3', path: 'Category3' },
+            { type: 'Category4', path: 'Category4' },
         ]
     },
     {
